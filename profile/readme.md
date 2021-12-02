@@ -1,10 +1,10 @@
-![Github Cover](../images/og-image.png)
+![Github Cover](./images/og-image.png)
 
 <div align="center">
     <strong>Civion Indonesia</strong>
 </div>
 
-![separator](../images/separator.jpg)
+![separator](./images/separator.jpg)
 
 We build progressive, scalable, and agile digital products to solve your business problems.
 
