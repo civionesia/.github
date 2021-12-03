@@ -1,10 +1,10 @@
-![Github Cover](https://raw.githubusercontent.com/civionesia/.github/images/og-image.png)
+![Github Cover](https://raw.githubusercontent.com/civionesia/.github/main/images/og-image.png)
 
 <div align="center">
     <strong>Civion Indonesia</strong>
 </div>
 
-![separator](https://raw.githubusercontent.com/civionesia/.github/images/separator.jpg)
+![separator](https://raw.githubusercontent.com/civionesia/.github/main/images/separator.jpg)
 
 We build progressive, scalable, and agile digital products to solve your business problems.
 
