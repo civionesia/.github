@@ -6,7 +6,7 @@
 
 ![separator](https://raw.githubusercontent.com/civionesia/.github/main/images/separator.jpg)
 
-We build progressive, scalable, and agile digital products to solve your business problems.
+<p align="center">We build progressive, scalable, and agile digital products to solve your business problems.</p>
 
 <!-- ## Hello 👋
 
